@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "691035067222",
+    "project_id": "fatigue-driver-detection",
+    "storage_bucket": "fatigue-driver-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691035067222:android:898bb3b75ffd5093b33cf7",
+        "android_client_info": {
+          "package_name": "com.example.fatiguedriverdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691035067222-lj4f8c6va5rgegak7ev5iogl8su46231.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYT8R-AknraL5cS9kBMwTYXtEQHbvVIUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691035067222-lj4f8c6va5rgegak7ev5iogl8su46231.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fatigue Driver Detection</string>
+    <string name="openNavDrawer">Navigation Drawer Open</string>
+    <string name="closeNavDrawer">Navigation Drawer Close</string>
+    <string name="detect_face">Detect Face</string>
+</resources>

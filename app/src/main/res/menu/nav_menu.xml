@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Fatigue Driver Detection ">
+        <menu>
+            <item
+                android:checkable="false"
+                android:enabled="false"
+                android:title="Profile"
+                android:visible="false" />
+            <item android:title="Detect Face"/>
+            <item android:title="Record" />
+            <item android:title="Reset Password"/>
+            <item android:title="Logout"/>
+        </menu>
+    </item>
+</menu>
